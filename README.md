@@ -8,7 +8,10 @@
 
 - [Link to the template](https://www.figma.com/file/wV8ONg4Jiz8W0ZhGq3NZ7X/Aqua?type=design&node-id=1-19&mode=design&t=3TERIBpSNA4s5tn2-0)
 
-- [Subscribe to the Telegram channel](https://t.me/MoonquitDeveloper)
+  > **_You can also try it yourself, and if you need tips, you can message me_**
+  > > **_[My Telegram bot for assistance](https://t.me/MoonquitAssistant_Bot)_**
+
+- **_[Subscribe to the Telegram channel](https://t.me/MoonquitDeveloper)_**
   > **_There's a lot of interesting stuff there_**
   >
   > > **_You won't regret it_**
