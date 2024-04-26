@@ -1,8 +1,21 @@
-# Aqua-Site
+# _Сайт по шаблону_
 
-I made this project based on a template, this project is a website for Aqua Therapy.
+**_Так сайт был написан по шаблону с сайта "Figma.com"_**
 
-The site is written in HTML, CSS.
+- Сайт был написан за 8-9 часов
 
-To use this site, you need to download the Live Server extension and you will be able to see how this site works. If you are too lazy to do these manipulations, you can watch a review of the site in my Telegram channel:
-https://t.me/MoonquitDeveloper/54
+- Когда пишешь сайт по шаблону, тебе очень легко, тебе не нужно заморачиваться по поводу фото, текста, шрифта. Но игногда, если ты хочешь сделать красивее сайт, то можно сделать все по себя и поменять шрифт и так делаее, лично я так и делал
+
+- [Ссылка на шаблон](https://www.figma.com/file/wV8ONg4Jiz8W0ZhGq3NZ7X/Aqua?type=design&node-id=1-19&mode=design&t=3TERIBpSNA4s5tn2-0)
+
+# _Фото 📷_
+
+**_Покажу вам несколько фото с кода_**
+
+![Фото](https://s4.aconvert.com/convert/p3r68-cdx67/a83pk-tb4a7.jpg)
+
+**_На данном изоброжение можно заметить, что данный код выводит поле меню/бар, для навизации по сайту_**
+
+![Фото](https://s4.aconvert.com/convert/p3r68-cdx67/az2i9-bjopj.png)
+
+**_Тут можно заметить стиль к навигации_**
