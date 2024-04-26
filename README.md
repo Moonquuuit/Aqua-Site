@@ -1,21 +1,24 @@
-# _Сайт по шаблону_
+# _Site by Template_
 
-**_Так сайт был написан по шаблону с сайта "Figma.com"_**
+**_This site was built using a template from "Figma.com"_**
 
-- Сайт был написан за 8-9 часов
+- The site was built in 8-9 hours.
 
-- Когда пишешь сайт по шаблону, тебе очень легко, тебе не нужно заморачиваться по поводу фото, текста, шрифта. Но игногда, если ты хочешь сделать красивее сайт, то можно сделать все по себя и поменять шрифт и так делаее, лично я так и делал
+- When you build a site using a template, it's very easy; you don't need to worry about photos, text, or fonts. But sometimes, if you want to make the site look nicer, you can customize everything and change the font and so on. Personally, that's what I did.
 
-- [Ссылка на шаблон](https://www.figma.com/file/wV8ONg4Jiz8W0ZhGq3NZ7X/Aqua?type=design&node-id=1-19&mode=design&t=3TERIBpSNA4s5tn2-0)
+- [Link to the template](https://www.figma.com/file/wV8ONg4Jiz8W0ZhGq3NZ7X/Aqua?type=design&node-id=1-19&mode=design&t=3TERIBpSNA4s5tn2-0)
 
-# _Фото 📷_
+- [Subscribe to the Telegram channel](https://t.me/MoonquitDeveloper)
+  > **_There's a lot of interesting stuff there_**
+  >
+  > > **_You won't regret it_**
 
-**_Покажу вам несколько фото с кода_**
+# _Photos 📷_
 
-![Фото](https://s4.aconvert.com/convert/p3r68-cdx67/a83pk-tb4a7.jpg)
+**_I'll show you some photos from the code_**
 
-**_На данном изоброжение можно заметить, что данный код выводит поле меню/бар, для навизации по сайту_**
+![Photo](https://s4.aconvert.com/convert/p3r68-cdx67/a83pk-tb4a7.jpg)
+In this image, you can see that the code displays a menu/bar for site navigation.
 
-![Фото](https://s4.aconvert.com/convert/p3r68-cdx67/az2i9-bjopj.png)
-
-**_Тут можно заметить стиль к навигации_**
+![Photo](https://s4.aconvert.com/convert/p3r68-cdx67/az2i9-bjopj.png)
+Here, you can notice the navigation style.
